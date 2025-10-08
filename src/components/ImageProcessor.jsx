@@ -17,7 +17,7 @@ const ImageProcessor = () => {
   const [error, setError] = useState('');
   const [switchProcessing, setSwitchProcessing] = useState(false);
   const fileInputRef = useRef(null);
-  const API_BASE_URL = 'https://coverage-earlier-backgrounds-clearing.trycloudflare.com/api';
+  const API_BASE_URL = 'https://usb-airplane-dont-laundry.trycloudflare.com/api';
  
   const {
      width,
