@@ -686,7 +686,7 @@ const ImageProcessor = () => {
                             className="processing-image"
                           />
                         ) : (
-                          <div className="processing-placeholder">⟳🖼️</div>
+                          <div className="processing-placeholder">🖼️….</div>
                         )}
                       </div>
                       
